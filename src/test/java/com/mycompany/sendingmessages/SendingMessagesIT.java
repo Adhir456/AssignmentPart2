@@ -13,7 +13,7 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author admin
+ * @author adhir
  */
 public class SendingMessagesIT {
     
