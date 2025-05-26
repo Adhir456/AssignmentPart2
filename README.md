@@ -1,6 +1,6 @@
 # AssignmentPart2
 
-QuickChatApp is a Java application that provides a graphical registration, login, and
+This is a Java application that provides a graphical registration, login, and
 messaging system using JOptionPane dialogs. It includes input validation and message
 storage in JSON format.
 
@@ -18,7 +18,7 @@ special character.
 • Each message is validated and limited to 250 characters.
 • Options: Send, Disregard, or Store the message.
 - JSON Storage:
-• Messages stored via the &#39;Store&#39; option are saved into a &#39;messages.json&#39; file.
+• Messages stored;Store&#39; option are saved;messages.json; file.
 - Custom GUI Styling:
 • Dialog boxes are styled using UIManager with custom font and background color.
 - Message Hashing:
